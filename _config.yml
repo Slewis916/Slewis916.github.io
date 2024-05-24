@@ -1,10 +1,15 @@
 lang:                  en
-title:                 Hydejack
+title:                 Jashawna Lewis
 copyright:             © 2021. All rights reserved.
+url: https://Slewis916.github.io.com
 
-accent_image:          /assets/img/sidebar-bg.jpg
+tagline: Cybersecurity Analyst
+
+accent_image:          none
 accent_color:          rgb(79,177,186)
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(165,26,27)
+
+
 
 google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 font:                  Noto Sans, Helvetica, Arial, sans-serif
@@ -72,3 +77,19 @@ compress_html:
 
 sass:
   style:               compressed
+
+copyright:             © 2024. All rights reserved.
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
+  - jekyll-last-modified-at
