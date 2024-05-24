@@ -1,14 +1,14 @@
 
 ---
 layout: about
-title: Welcome!
+title: About
 permalink: /about/
 more_posts: posts.md
 sidebar: true
 order: 1
 
 ---
-
+## Welcome!
 Hi, I'm Jashawna Lewis 
 pronounced (Ja-Sha-Na)
 
