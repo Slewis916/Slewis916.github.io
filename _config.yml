@@ -100,8 +100,8 @@ sass:
 copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
-# permalink:             /blog/:categories/:year-:month-:day-:title/
-permalink:             none
+ permalink:             /:categories/:year-:month-:day-:title/
+
 
 
 
