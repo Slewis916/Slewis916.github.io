@@ -101,3 +101,15 @@ hydejack:
     sunset:  18
     icon:    true
     always:  false
+
+
+menu:
+ - title: About
+    url:   /about/
+  - title: Blog
+    url:   /blog/
+  - title: Projects
+    url:   /projects/
+  - title: Resume
+    url:   /resume/
+ 
