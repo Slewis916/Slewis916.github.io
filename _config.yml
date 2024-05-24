@@ -94,7 +94,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-  hydejack:
+hydejack:
   dark_mode:
     dynamic: true
     sunrise: 6
