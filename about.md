@@ -1,6 +1,11 @@
+
 ---
-layout: about
-title:  About
+layout: welcome
+title: About
+permalink: /about/
+more_posts: posts.md
+sidebar: true
+order: 1
 ---
 
 Hi, I'm Jashawna Lewis 
