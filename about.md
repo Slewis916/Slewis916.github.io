@@ -5,7 +5,7 @@ title:  About
 ---
 
 ## Welcome!
-<!--author-->
+
 
 
 Hi, I'm Jashawna Lewis 
@@ -18,3 +18,4 @@ I have a hunger for learning and a passion for solving complex problems.<br>
 In my spare time, I enjoy fishing and gaming.<br>
 
 
+<!--author-->
