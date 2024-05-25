@@ -1,14 +1,14 @@
 
 ---
 layout: about
-title: About
-permalink: /about/
-more_posts: posts.md
-sidebar: true
-order: 1
-
+title:  About
+date: 2024-05-24
 ---
+
 ## Welcome!
+<!--author-->
+
+
 Hi, I'm Jashawna Lewis 
 pronounced (Ja-Sha-Na)
 
@@ -18,4 +18,4 @@ I have up-skilled in areas such as network security, incident response and threa
 I have a hunger for learning and a passion for solving complex problems.
 In my spare time, I enjoy fishing and gaming.
 
-<!--author-->
+
