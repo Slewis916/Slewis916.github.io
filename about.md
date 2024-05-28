@@ -3,9 +3,9 @@ layout: about
 title: Welcome!
 ---
 
-## Hello, World!
+## Hello,
 
-Hi, I'm **Jashawna Lewis**, *pronounced* **Ja/Sha/Na**.<br>
+I'm **Jashawna Lewis**, *pronounced* **Ja/Sha/Na**.<br>
 I am a recent graduate from the Google Cybersecurity Certificate program with a background in Laboratory Medicine. <br>
 
 I am excited to leverage my diverse background in Laboratory Medicine to bring a fresh perspective to the digital security realm. <br>
