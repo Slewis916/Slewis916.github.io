@@ -18,10 +18,6 @@ In my spare time, I enjoy fishing and gaming.<br>
 
 ***
 
-<!--posts_list-->
-
-***
-
 
 
 
