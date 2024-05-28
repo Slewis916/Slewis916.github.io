@@ -7,8 +7,8 @@ url: https://Slewis916.github.io.com
 tagline: Cybersecurity Analyst
 
 accent_image:          none
-accent_color:          rgb(79,177,186)
-theme_color:           rgb(31,55,75)
+accent_color:          rgb(0,0,0)
+theme_color:           rgb(181,1,0)
 
 # Add links to the sidebar.
 menu:
