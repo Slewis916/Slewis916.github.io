@@ -1,7 +1,10 @@
 ---
-layout: about
+layout: welcome
 title: Welcome!
-
+permalink: /about/
+more_posts: posts.md
+sidebar: true
+order: 1
 ---
 
 ## Hello, World!
@@ -19,6 +22,9 @@ In my spare time, I enjoy fishing and gaming.<br>
 
 ***
 
+<!--posts_list-->
+
+***
 
 
 
