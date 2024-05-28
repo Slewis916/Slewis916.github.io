@@ -1,6 +1,18 @@
 // Uncomment to disable dingbat icons below posts
 hr.dingbat { display: none }
 
+.theme {
+    &.dark {
+        background: #000;
+        color: #fff;
+    }
+    &.light {
+        background: #fff;
+        color: #000;
+    }
+    transition:background-color 200ms ease-in-out, color 200ms ease-in-out;
+}
+
 
 
 
