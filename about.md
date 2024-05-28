@@ -1,10 +1,6 @@
 ---
-layout: welcome
+layout: about
 title: Welcome!
-permalink: /about/
-more_posts: posts.md
-sidebar: true
-order: 1
 ---
 
 ## Hello, World!
