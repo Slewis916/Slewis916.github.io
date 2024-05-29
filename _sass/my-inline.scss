@@ -1,35 +1,25 @@
 // Uncomment to disable dingbat icons below posts
 hr.dingbat { display: none }
 
-body::before {
-    @media screen {
-      content: '';
-      width: .5rem;
-      background: var(--gray-bg);
-      position: fixed;
-      left: 0;
-      top: 0;
-      bottom: 0;
-    }
-  
-    @media (min-width: $break-point-3) {
-      width: $sidebar-width;
-    }
-  
-    @media (min-width: $break-point-dynamic) {
-      width: calc(50% - #{$half-content});
-    }
+body {
+    --text-color: #222;
+    --bkg-color: #fff;
+  }
+  body.dark-theme {
+    --text-color: #eee;
+    --bkg-color: #121212;
   }
   
-  html {
-    @media screen and (min-width: $break-point-1) {
-      font-size: var(--root-font-size-medium);
-    }
-  
-    @media screen and (min-width: $break-point-font-large) {
-      font-size: var(--root-font-size-large);
-    }
+  * {
+    font-family: Arial, Helvetica, sans-serif;
   }
   
+  body {
+    background: var(--bkg-color);
+  }
   
+  h1,
+  p {
+    color: var(--text-color);
+  }
   
