@@ -16,8 +16,18 @@ menu:
     url:               /about/
   - title:             Blog
     url:               /blog/
+    submenu:           
+      - title:           Homelabs
+        url:             /homelabs/
+      - title:           SOC Alerts
+        url:             /socalerts/
+      - title:           Study Logs
+        url:             /studylogs/
   - title:             Resume
     url:               /resume/
+  - title:             Projects
+    url:               /projects/
+
 
 
 collections:
