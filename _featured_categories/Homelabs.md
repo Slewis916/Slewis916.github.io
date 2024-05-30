@@ -2,10 +2,9 @@
 layout: list
 type: category
 title: Homelabs
-slug: Homelabs
+slug: homelabs
 sidebar: true
 order: 2
-permalink: /blog/
 description: >
   All Homelab related content.
 ---
