@@ -1,6 +1,6 @@
 ---
-layout: tag-list
-type: tag
+layout: list
+type: category
 title: Blog
 slug: blog
 categories: homelabs socalerts
