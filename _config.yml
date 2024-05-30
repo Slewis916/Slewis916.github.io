@@ -30,10 +30,21 @@ menu:
 
 
 
+# Collections
+# ----------------------------------------------------------------------------------------
+
 collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
   projects:
-    permalink: /projects/:path/
-    output:    true
+    permalink:         /projects/:path/
+    output:            true
 
 
 
@@ -175,3 +186,11 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+
+# jekyll-feed settings
+feed:
+  categories:
+    - homelabs
+    - socalerts
+    - studylogs
