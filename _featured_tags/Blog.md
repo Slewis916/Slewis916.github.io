@@ -1,9 +1,9 @@
 ---
-layout: list
-type: category
+layout: tag-list
+type: tag
 title: Blog
 slug: blog
-categories: homelabs socalerts
+category: homelabs socalerts
 sidebar: true
 description: >
    Posts about homelabs and soc alerts.
