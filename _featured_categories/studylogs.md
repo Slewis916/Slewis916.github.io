@@ -1,11 +1,11 @@
 ---
 layout: list
 type: category
-title: Homelabs
-slug: Homelabs
+title: Study Logs
+slug: studylogs
 sidebar: true
-order: 2
+order: 4
 permalink: /blog/
 description: >
-  All Homelab related content.
----
+  Material that I am learning.
+---x
