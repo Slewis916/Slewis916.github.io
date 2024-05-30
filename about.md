@@ -15,6 +15,7 @@ I have up-skilled in areas such as network security, incident response and threa
 I have a hunger for learning and a passion for solving complex problems.<br>
 
 In my spare time, I enjoy fishing and gaming.<br>
+
 ***
 
 
