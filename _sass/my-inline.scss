@@ -1,10 +1,67 @@
 // Uncomment to disable dingbat icons below posts
 hr.dingbat { display: none }
 
-{% if site.hydejack.dark_mode.dynamic %}
-<script>
-  window._sunrise = {{ site.hydejack.dark_mode.sunrise | default:"6"  }};
-  window._sunset =  {{ site.hydejack.dark_mode.sunset  | default:"18" }};
-  {% include scripts/dark-mode-fix.min.js %}
-</script>
-{% endif %}
+//Dark theme/
+body, navbar {
+  color: #121212;
+  background: #2a292e;
+  font: 100% system-ui;
+}
+a {
+  color: #0033cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #2a292e;
+  }
+
+  body a {
+    color: #809fff;
+  }
+}
+
+
+.sidebar-sticky {
+  height: 100%;
+  padding-top: 5%;
+  position: absolute;
+}
+.sidebar-about {
+  padding-bottom:10%;
+}
+.spread-btn{
+  left: 7%;
+  position: absolute;
+  padding: 0;
+  padding-top: 5px;
+  border: none;
+  background: none;
+  color: white;
+  cursor: pointer;
+}
+
+.spread-btn:hover{
+  color: grey;
+}
+
+.menu-wrapper{
+  display: flex;
+  text-align: left;
+  margin-left: 10%;
+  margin-bottom: 0%;
+  
+  input[type=checkbox]{
+    display: none;
+  }
+  
+  input[type=checkbox] ~ ul{
+    display: none;
+    list-style: none;
+  }
+  
+  input[type=checkbox]:checked ~ ul{
+    display: block;
+  }
+}
