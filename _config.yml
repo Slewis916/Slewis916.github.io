@@ -194,3 +194,16 @@ feed:
     - homelabs
     - socalerts
     - studylogs
+
+
+    # Add links to the footer.
+# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
+legal:
+  - title:             LICENSES
+    url:               /licenses/
+  - title:             COOKIES POLICY
+    url:               /cookies-policy/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
