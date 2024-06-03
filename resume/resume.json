@@ -1,0 +1,107 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Jashawna Lewis",
+      "label": "Cybersecurity Analyst",
+      "email": "bhdouglass@gmail.com",
+      "url": "https://Slewis916.github.io",
+      "summary": "Hello, I'm Jashawna Lewis, a Cybersecurity Analyst specializing in blueteam defense.",
+      "profiles": [
+        {
+            "network": "GitHub",
+            "username": "Jashawna Lewis",
+            "url": "https://github.com/Slewis916"
+          },
+          {
+            "network": "LinkedIn",
+            "username": "Jashawna Lewis",
+            "url": "https://linkedin.com/in/jashawna-lewis-3b93ab142"
+          }
+      ]
+    },
+    "work": [
+      {
+        "name": "Enerflo",
+        "location": "Huntington Beach, CA",
+        "description": "A solar software company",
+        "position": "Senior Software Engineer",
+        "url": "https://enerflo.com/",
+        "startDate": "2020-02",
+        "summary": "Developing new APIs with NestJS, Typescript, GraphQL, and PostgreSQL. ",
+        "highlights": [
+          "Build APIs with NestJS, Typescript, GraphQL, and PostgreSQL.",
+          "Maintain web apps with Laravel & Javascript."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "UBports",
+        "position": "UBports App Dev Steering Committee Head",
+        "url": "https://ubports.com/",
+        "startDate": "2018-08",
+        "endDate": "2021-04",
+        "summary": "Lead the UBports App Development committee and championed developer experience for the Ubuntu Touch operating system.",
+        "highlights": [
+          "Support and develop the open-source Ubuntu Touch operating system."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Messiah College",
+        "url": "https://www.messiah.edu/",
+        "area": "Computer and Information Science ",
+        "studyType": "Bachelor of Science",
+        "startDate": "2009-09",
+        "endDate": "2012-05",
+        "score": "3.83",
+        "courses": []
+      }
+    ],
+    "skills": [
+      {
+        "name": "Backend Development",
+        "keywords": [
+          "Node.js"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Board Games",
+        "keywords": [
+          "Terraforming Mars"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "OpenStore",
+        "description": "The official app store for Ubuntu Touch",
+        "highlights": [
+          "Built an API first web service built using TypeScript, Node.js, Express, and MongoDB.",
+          "Created custom web client for searching and managing apps using JavaScript and Vue.js",
+          "Continued to maintain Qt/QML Ubuntu Touch app for installing applications."
+        ],
+        "startDate": "2015-04",
+        "url": "https://open-store.io/",
+        "roles": [
+          "Lead Developer"
+        ],
+        "type": "application"
+      }
+    ],
+    "meta": {
+      "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+      "version": "v1.0.0",
+      "lastModified": "2022-11-02T12:00:00",
+      "theme": "kendall"
+    }
+  }
