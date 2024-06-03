@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Jashawna Lewis",
+    "label": "Cybersecurity Analyst",
+    "image": "",
+    "email": "Shawnalewis916@gmail.com",
+    "phone": "(203) 843-8386",
+    "url": "https://Slewis916.github.io",
+    "summary": "Hello, I am Jashawna, a cybersecurity analyst specializing in blue team defense.<br> I have working knowledge of Python and Javascript.<br> I work well underpressure and I have a hunger for learning.",
+  #  "location": {
+  #    "address": "2712 Broadway St",
+  #   "postalCode": "CA 94115",
+  #    "city": "San Francisco",
+  #    "countryCode": "US",
+  #    "region": "California"
+    },
+    "profiles": [{
+      "network": "Github",
+      "username": "Jashawna Lewis",
+      "www.linkedin.com/in/jashawna-lewis-3b93ab142"
+    }]
+  },
+  "work": [{
+    "name": "Yale New Haven Hospital",
+    "position": "Medical Technologist",
+    "url": "https://www.ynhh.org",
+    "startDate": "2020-06-19",
+    "endDate": "Present",
+    "summary": "Evaluates, troubleshoots, and problem solves equipment and problem specimens, Performs manual and automated molecular and serologic testing in the virology and microbiology lab, Utilizes EPIC Systems to accurately document and report results to ensure quality of patient care by demonstrating good computer and record keeping skills",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+    "education": [{
+    "institution": "University of New haven",
+    "url": "https://newhaven.edu/",
+    "area": "Marine Biology",
+    "studyType": "Bachelor",
+    "startDate": "2015-08-28",
+    "endDate": "2018-05-18",
+  #  "score": "4.0",
+  #  "courses": [
+  #    "DB1101 - Basic SQL"
+   # ]
+  }],
+  #"education": [{
+  #  "institution": "University of New haven",
+  #  "url": "https://newhaven.edu/",
+  #  "area": "Marine Biology",
+  #  "studyType": "Bachelor",
+  #  "startDate": "2015-08-28",
+  #  "endDate": "2018-05-18",
+  #  "score": "4.0",
+ #   "courses": [
+   #   "DB1101 - Basic SQL"
+  #  ]
+  #}],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+ # "references": [{
+ #   "name": "Jane Doe",
+  #  "reference": "Reference…"
+ 
+ # }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}
