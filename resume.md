@@ -103,4 +103,4 @@ buttons:
 
 ---
 
-<iframe src="https://drive.google.com/file/d/1h7CjoRicIi1XcNvYBKI_Vgh4wZp8pMQC/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1h7CjoRicIi1XcNvYBKI_Vgh4wZp8pMQC/preview" width="100" height="100" allow="autoplay"></iframe>
