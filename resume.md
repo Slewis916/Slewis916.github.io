@@ -6,7 +6,7 @@ layout: resume
 permalink: /assets/resume.pdf
 buttons:
   print: true
-  pdf: /assets/Resume.pdf
+  pdf: /assets/resume.pdf
 
   "profile": {
     "name": "JASHAWNA LEWIS",
