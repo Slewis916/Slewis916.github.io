@@ -2,8 +2,7 @@
 title: "Resume"
 description: Jashawna Lewis's resume
 date: 2024-06-13
-layout: pdf
-categories: resume
+layout: resume
 permalink: /assets/resume.pdf
 ---
 
