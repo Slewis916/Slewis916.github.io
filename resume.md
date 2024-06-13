@@ -21,5 +21,5 @@ no_skill_icons: false
 buttons:
   print: true
   pdf: /assets/resume.pdf
-  json: /assets/resume.json
+  
 ---
