@@ -1,26 +1,25 @@
 ---
 layout: resume
-title: Resume
-permalink: /resume/
+title: Résumé*
 description: >
-  Hi, I'm Jashawna Lewis.
+  This is the `description` of your resume page, as it will be seen by search engines.
+  You'll probably want to modify it in `resume.md`, and maybe set `hide_description` to `true` in the front matter.
 hide_description: true
-sidebar: true
-order: 6
 left_column:
- - work
- - education
- - projects
- - publications
- - references
+  - work
+  - volunteer
+  - education
+  - awards
+  - publications
+  - references
 right_column:
- - languages
- - skills
- - interests
+  - languages
+  - skills
+  - interests
 no_language_icons: false
 no_skill_icons: false
 buttons:
-  print: false
+  print: true
   pdf: /assets/resume.pdf
   json: /assets/resume.json
 ---
