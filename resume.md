@@ -7,7 +7,6 @@ permalink: /assets/resume.pdf
 buttons:
   print: true
   pdf: /assets/resume.pdf
-
 ---
 
-![Desktop View](/assets/resume.pdf){: w="700" h="400" }
+
