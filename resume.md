@@ -104,6 +104,5 @@ resume:
 
 ---
 
-## Download My Resume
 
-<a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">Resume</a>
+<iframe src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px"></iframe>
