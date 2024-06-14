@@ -102,5 +102,3 @@ buttons:
   }
 
 ---
-
-<iframe src="https://drive.google.com/file/d/1h7CjoRicIi1XcNvYBKI_Vgh4wZp8pMQC/preview" width="900" height="900" allow="autoplay"></iframe>
