@@ -104,6 +104,7 @@ resume:
 
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -111,7 +112,6 @@ resume:
   <title>Resume</title>
 </head>
 <body>
-  <h1>My Resume</h1>
-  <embed src="{{ '/assets/your_resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+  <embed src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 </body>
-
+</html>
