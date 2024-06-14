@@ -112,6 +112,6 @@ resume:
   <title>Resume</title>
 </head>
 <body>
-  <embed src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+  <embed src="{{ '/assets/resume.pdf' | relative_url }}" width="750vh" height="600px" type="application/pdf">
 </body>
 </html>
