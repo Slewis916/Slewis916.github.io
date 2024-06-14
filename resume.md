@@ -104,12 +104,14 @@ resume:
 
 ---
 
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resume</title>
 </head>
 <body>
-  <embed src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+  <h1>My Resume</h1>
+  <embed src="{{ '/assets/your_resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
 </body>
 
