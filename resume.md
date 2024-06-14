@@ -103,4 +103,4 @@ resume:
   }
 
 ---
-[My Resume](/assets/resume.pdf)
+
