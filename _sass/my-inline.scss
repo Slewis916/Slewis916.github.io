@@ -1,26 +1,6 @@
 // Uncomment to disable dingbat icons below posts
 hr.dingbat { display: none }
 
-//Dark theme/
-body, navbar {
-  color: #121212;
-  background: #2a292e;
-  font: 100% system-ui;
-}
-a {
-  color: #0033cc;
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #eee;
-    background: #2a292e;
-  }
-
-  body a {
-    color: #809fff;
-  }
-}
 
 
 .sidebar-sticky {
