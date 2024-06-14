@@ -105,4 +105,16 @@ resume:
 ---
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+</head>
+<body>
+  <h1>My Resume</h1>
+  <iframe src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px"></iframe>
+</body>
+</html>
 
