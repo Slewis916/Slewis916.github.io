@@ -103,3 +103,4 @@ buttons:
 
 ---
 
+![Desktop View](/assets/resume.pdf){: w="700" h="400" }
