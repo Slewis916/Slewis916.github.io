@@ -24,7 +24,7 @@ menu:
       - title:           Study Logs
         url:             /studylogs/
   - title:             Resume
-    url:               /resume/
+    url:               /assets/resume.pdf/
   - title:             Projects
     url:               /projects/
 
