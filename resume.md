@@ -8,6 +8,8 @@ buttons:
   print: true
   pdf: /assets/resume.pdf
 
+[My Resume](/assets/resume.pdf)
+
   
   "profile": {
     "name": "JASHAWNA LEWIS",
@@ -103,5 +105,3 @@ buttons:
   }
 
 ---
-
-[My Resume](/assets/resume.pdf)
