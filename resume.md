@@ -103,4 +103,4 @@ resume:
   }
 
 ---
-<embed src="resume.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
+<embed data="resume.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
