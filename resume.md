@@ -105,4 +105,5 @@ resume:
 ---
 ## My Resume
 
-<embed src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
+![Resume]({{ '/assets/resume.png' | relative_url }})
+
