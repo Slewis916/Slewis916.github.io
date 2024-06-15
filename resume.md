@@ -103,4 +103,6 @@ resume:
   }
 
 ---
-<embed data="resume.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
+## My Resume
+
+<embed src="{{ '/assets/resume.pdf' | relative_url }}" width="100%" height="600px" type="application/pdf">
