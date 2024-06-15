@@ -1,7 +1,7 @@
 lang:                  en
 title:                 Jashawna Lewis
 copyright:             © 2024. All rights reserved.
-url: https://Slewis916.github.io.com
+url: https://Slewis916.github.io
 
 
 tagline: Cybersecurity Analyst
@@ -207,3 +207,7 @@ legal:
 #     url:               /NOTICE/
 #   - title:             CHANGELOG
 #     url:               /CHANGELOG/
+
+
+favicon: /JL.png
+apple_touch_icon: /assets/icons/JL.png
