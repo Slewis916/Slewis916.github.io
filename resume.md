@@ -103,9 +103,9 @@ resume:
   }
 
 ---
-## Download My Resume
 
-<a href="{{ '/assets/your_resume.pdf' | relative_url }}" target="_blank">Download my resume</a>
+
+<a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank">Download my resume</a>
 
 
 ![Resume]({{ '/assets/resume.png' | relative_url }})
