@@ -103,7 +103,4 @@ resume:
   }
 
 ---
-
-
-<object data="{{ site.url }}{{ site.baseurl }}/assets/resume.pdf" width="1000" height="1000" type="application/pdf"></object>
-
+<embed src="resume.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
