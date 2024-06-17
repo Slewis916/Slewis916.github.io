@@ -66,19 +66,15 @@ Tools available to find subdomains:
     - Entering the necessary API keys in the configuration files for the resources that require API keys will increase the number of subdomains it will find.
     - Uses a scan module to check the activity of the subdomains it finds
     - Uses a takeover module to check whether there is a takeover vulnerability on the subdomains it finds
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5180167-e03a-4f97-b0d5-102dd0f22df9/254423fa-e684-4098-8db3-314f28b67a87/Untitled.png)
+
     
 - Sublist3r
     - Runs on the command line and finds and outputs from multiple sources
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5180167-e03a-4f97-b0d5-102dd0f22df9/125d580d-4b88-4826-ad02-91c546a24ba6/Untitled.png)
     
 
 - Assetfinder
     - Queries subdomains and obtains data from many sources
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5180167-e03a-4f97-b0d5-102dd0f22df9/64c9b107-2b21-46fe-8fae-9a91bd536ffb/Untitled.png)
     
 
 When searching for subdomains, get as much data from as many sources as possible.
@@ -89,7 +85,6 @@ To find websites, requests must be sent to the domains and subdomains we find.
 
 Active websites are obtained by examining the domains and subdomains that respond to HTTP/HTTPS requests.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5180167-e03a-4f97-b0d5-102dd0f22df9/4a8afc24-3441-44e8-829b-9367c211df7a/Untitled.png)
 
 When all the domains are listed and scanne dby the “httpx” tppl, it will list all the domains that responf to http/https requests.
 
