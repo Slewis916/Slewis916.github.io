@@ -42,7 +42,6 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-collections:
   projects:
     permalink: /projects/:path/
     output:    true
