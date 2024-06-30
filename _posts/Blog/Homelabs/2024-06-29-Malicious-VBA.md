@@ -78,5 +78,5 @@ _Figure 9 Decoded string from the suspicious file using CyberChef_
 Technologies and Tools used:
 Linux terminal, Bash, CyberChef
 
-This challenge is hosted via Letsdefend.io 
+This challenge is hosted via Letsdefend.io: 
 https://app.letsdefend.io/challenge/Malicious-VBA
