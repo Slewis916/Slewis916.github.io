@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Email Forensics
+title:  Understanding Email Protocols
 date:   2024-06-13 15:23:00 -0500
 categories: blog 
 description: Objective is to learn how properly analyze emails.
 tags: studylogs 
 ---
 
-## Understand Email Protocols
+
 
 ### SMTP (Simple Mail Transer Protocol)
 
@@ -74,4 +74,29 @@ In protocols like SMTP, IMAP, and POP3 is a command that the client sends to the
 
 3. Encryption Activation:
 After the server acknowledges the STARTTLS command, communication channel is encrypted using TLS, providing confidentiality and intergrity for the data exchange.
+
+Port 993:
+Provides a secure connection for IMAP and is used for TLS/SSL encrypted communications. Provides security by encrypting email traffic.
+
+#### POP3
+Downloads emails from the server and stores them locally, allowing access to emails without an internet connection.
+Messages are only viewable on the device there were downloaded.
+
+Security: Encrypted with SSL/TLS, but not as flexible as IMAP. Risk of data loss can increase if no local backups are made.
+
+#### POP3 Ports
+Port 110:
+Standard unencrypted port for the POP3 protocol.
+Secure communication can be established by using STARTTLS.
+
+Port 995:
+Provides for a secure connection for POP3.
+ It used for TLS/SSL encrypted communications. It is recommended for secure email reception as it provides security by encrypting email communication.
+
+ ### Comparison and Usage Scenarios
+
+ IMAP is more suitable for situations requiring constant synchronization and email access on multiple devices.
+
+ POP3 is ideal for users who have simle email needs and who usually use a single device to manage their email on a day-to-day basis.
+
    
