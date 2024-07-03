@@ -15,7 +15,7 @@ _Figure 1 Applying the smtp filter on a pcap file in wireshark_
 
 ---
 
-The SMTP session begins with the server indicating it is ready to proceed with communication by responding with response code 220. The SMTP command 'EHLO' identifies itself to the server and provides a list of commands supported by the sevrer.
+The SMTP session begins with the server indicating it is ready to proceed with communication by responding with response code 220. The SMTP command 'EHLO' identifies itself to the server and provides a list of commands supported by the server.
 Response code 250 is the server identifying itself (figure 2).
 
 ![Alert](/assets/img/pc1/5.png)
