@@ -19,7 +19,7 @@ In my spare time, I enjoy fishing, anime, or gaming.<br>
 ***
 
 
-You who cannot see the forest for the trees are just not able to comprehend the true meaning of peace 🌳🌳
+"You who cannot see the forest for the trees are just not able to comprehend the true meaning of peace." 🌳🌳
 
 
 
