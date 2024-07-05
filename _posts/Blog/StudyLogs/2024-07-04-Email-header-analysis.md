@@ -34,7 +34,7 @@ _Figure 2 Source file of email case2.eml_
 The domain 'emkei.cz' initiated server communication at 17:46:08 with the server AM2PEPF0001C70A.mail.protection.outlook.com via Frontend Transport. The IP address associated with 'emkei.cz' is 114.29.236.247. As shown in Figure 2, the 'Received-SPF' header specifies a 'SoftFail' occurred, indicating that "the domain of transitioning letsdefend.io discourages the use of 114.29.236.247 as a permitted sender." Further analysis of the domain 'emkei.cz' reports it as untrusted (Figure 3). Despite the 'SoftFail', the email was allowed to be transmitted.
 
 ![Screenshot Cisco Talso ](/assets/img/Ha/3.png)
-_Figure 3 Domain repuation of emkei.cz via Cisco Talos Intelligence Search_  
+_Figure 3 Domain reputation of emkei.cz via Cisco Talos Intelligence Search_  
 
 ---
 
