@@ -3,7 +3,7 @@ layout: list
 #type: category
 title: Blog
 slug: blog
-sidebar: true
+#sidebar: true
 order: 2
 description: >
   Anything about cybersecurity.
