@@ -3,7 +3,8 @@ layout: tag-list
 type: category
 title: Blog
 slug: blog
-sidebar: true
+menu: true
+submenu: true
 description: >
   Anything about cybersecurity.
 ---
