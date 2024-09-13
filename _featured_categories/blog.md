@@ -8,3 +8,9 @@ submenu: true
 description: >
   Anything about cybersecurity.
 ---
+
+feed:
+  categories:
+    - homelabs
+    - socalerts
+    - studylogs
