@@ -4,7 +4,8 @@ type: tag
 title: Blog
 slug: blog
 category: homelabs socalerts
-sidebar: true
+menu: true
+submenu: true
 description: >
    Posts about homelabs and soc alerts.
 ---

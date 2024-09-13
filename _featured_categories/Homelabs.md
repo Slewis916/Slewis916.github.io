@@ -3,7 +3,7 @@ layout: list
 type: category
 title: Homelabs
 slug: homelabs
-menu: true
+menu: false
 submenu: true
 order: 3
 description: >
