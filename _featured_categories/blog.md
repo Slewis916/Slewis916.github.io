@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: list
 type: category
 title: Blog
 slug: blog
