@@ -148,13 +148,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-hydejack:
-  dark_mode:
-    dynamic: true
-    sunrise: 6
-    sunset:  18
-    icon:    true
-    always:  false
+ dark_mode:
+    always:false
+    dynamic:true
+    sunrise:6
+    sunset:18
+    icon:true
 
 
 
