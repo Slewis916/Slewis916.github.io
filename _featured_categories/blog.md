@@ -1,5 +1,5 @@
 ---
-layout: tag-list
+layout: list
 type: category
 title: Blog
 slug: blog
