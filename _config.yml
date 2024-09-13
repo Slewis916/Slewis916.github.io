@@ -148,14 +148,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
- dark_mode:
-    always:false
-    dynamic:true
-    sunrise:6
-    sunset:18
-    icon:true
-
-
 
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
