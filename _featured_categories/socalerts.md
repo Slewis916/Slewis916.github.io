@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: tag-list
 type: category
 title: SOC Alerts
 slug: socalerts
