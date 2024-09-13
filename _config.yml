@@ -129,7 +129,11 @@ paginate:              10
 paginate_path:         /:num/
 
 
-
+hydejack:
+  dark_mode:
+    dynamic: true
+    icon:    true
+    always:  false
 
 
 
@@ -201,5 +205,4 @@ legal:
 #     url:               /CHANGELOG/
 
 
-favicon: /JL.png
-apple_touch_icon: /assets/icons/JL.png
+
