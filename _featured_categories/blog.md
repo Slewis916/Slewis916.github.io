@@ -1,6 +1,6 @@
 ---
 layout: tag-list
-type: category
+type: post
 title: Blog
 slug: blog
 sidebar: true
