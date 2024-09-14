@@ -4,7 +4,7 @@ title:  Malicious VBA
 date:   2024-06-29 15:04:00 -0500
 categories: blog 
 description: Investigating a suspicious document attached to an email invoice.
-tags: homelabs 
+tags: homelabs blog
 ---
 
 
