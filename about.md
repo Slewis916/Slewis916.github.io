@@ -9,7 +9,7 @@ I’m passionate about drawing connections between my past and future. As a Medi
 I bring a unique perspective, a hunger for learning, and a deep love of solving complex problems.<br>
 In my free time, you’ll usually find me gaming, watching anime, or fishing — anything that helps me recharge and stay curious.
 
-🛠️ Technical Skills<br>
+**🛠️ Technical Skills<br>**
 Languages: Python, Bash, PowerShell<br>
 Tools: Wireshark, Splunk, osTicket, Cisco Talos, VirtualBox<br>
 Platforms: Linux, Azure, Windows 10, GitHub<br>
