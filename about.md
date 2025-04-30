@@ -1,20 +1,13 @@
 ---
 layout: about
-title: Welcome!
+title: Hello and welcome!
 ---
 
-## Hello,
-
-I'm **Jashawna Lewis**, *pronounced* **Ja/Sha/Na**.<br>
-I am a recent graduate from the Google Cybersecurity Certificate program with a background in Laboratory Medicine. <br>
-
-I am excited to leverage my diverse background in Laboratory Medicine to bring a fresh perspective to the digital security realm. <br>
-
-I have up-skilled in areas such as network security, incident response and threat hunting. <br>
-
-As a Cybsersecurity analyst it is our duty to protect our client's assets from threat actors by identifying, preventing and responding to security incidents. From a medical perspective this is similar to my role as a Medical technologist in Virology. I analyze the patient's bodily fluids to identify viruses or bacteria, to assist doctors and nurses in treating their patient.  I believe my hunger for learning and passion for solving complex problems will make me a great addition to the Cybersecurity field.<br>
-
-In my spare time, I enjoy fishing, anime, or gaming.<br>
+I'm **Jashawna Lewis (pronounced Ja-sha-na)** — a recent graduate of the Google Cybersecurity Certificate program with a background in Laboratory Medicine. <br>
+I’m transitioning into the cybersecurity field with hands-on training in network security, incident response, and threat hunting.
+I’m passionate about drawing connections between my past and future. As a Medical Technologist in Virology, I analyzed patient samples to identify infections — helping providers make life-saving decisions. As a Security Analyst, I aim to detect, analyze, and respond to digital threats with the same urgency and attention to detail.<br>
+I bring a unique perspective, a hunger for learning, and a deep love of solving complex problems.<br>
+In my free time, you’ll usually find me gaming, watching anime, or fishing — anything that helps me recharge and stay curious.
 
 ***
 
