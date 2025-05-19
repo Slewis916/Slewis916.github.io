@@ -110,12 +110,20 @@ background-color:rgb(200, 191, 191);
   font-size: 1rem;
   border-radius: 8px;
   text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   transition: background-color 0.2s ease;
 }
 
 .github-button:hover {
   background-color: #1e56a0;
 }
+
+.github-icon {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
 
 </style>
 
@@ -133,13 +141,16 @@ background-color:rgb(200, 191, 191);
       <p>This project simulates the deployment and configuration of a helpdesk ticketing system using the LAMP stack (Linux, Apache, MySQL, PHP) and osTicket.</p>
 
         <div style="margin-top: 1rem; text-align: center;">
-        <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" rel="noopener noreferrer" class="project-link">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo"
-          width="18" 
-          style="vertical-align: middle; 
-          margin-right: 8px;">
-         Github Repo
-        </a>
+        <a href="https://github.com/Slewis916/osTicket-Installation.git" 
+   class="github-button" 
+   target="_blank" 
+   rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub logo" 
+       class="github-icon">
+  GitHub Repo
+</a>
+
         </div>
       </div>
     </div>
