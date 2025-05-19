@@ -23,7 +23,7 @@ permalink: /projects/
 }
 
 body {
-  background-color:rgb(182, 172, 172);
+  background-color:rgb(255, 255, 255);
 }
 
 .project-card {
@@ -33,7 +33,7 @@ body {
   height: 100%;
   max-width: 360px;
   flex: 1 1 320px;
-
+background-color:rgb(200, 191, 191);
 }
 
 
