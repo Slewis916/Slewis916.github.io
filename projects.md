@@ -39,7 +39,7 @@ permalink: /projects/
 }
 
 .project-card-content {
-  padding: 0.5rem 1.2rem;
+  padding: 1.0rem 1.2rem;
   flex-grow: 1;
   text-align: center; /* 🔹 Center text */
 }
@@ -57,6 +57,16 @@ permalink: /projects/
 
 .project-card a:hover {
   background-color: #1f4f95;
+}
+
+.project-card img {
+  margin-bottom: 0;
+  display: block;
+}
+
+.project-card h3 {
+  margin-top: 0.75rem;  /* ↓ Lower this number for tighter spacing */
+  font-size: 1.3rem;
 }
 
 </style>
