@@ -16,28 +16,18 @@ permalink: /projects/
 
 <style>
   .card-grid {
-    display: flex;
-    flex-wrap: wrap;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.5rem;
-    max-width: 1100px;
-    margin: auto;
-    padding: 2rem;
-    justify-content: center;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
 
-  .project-card {
-  max-width: 360px; /* 🔹 Limit the card width */
-  margin: auto; /* 🔹 Center card if in solo display */
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
-  overflow: hidden;
+.project-card {
   display: flex;
   flex-direction: column;
-  transition: transform 0.2s ease;
-  justify-content: space-between;  /* Distributes content evenly */
-  height: 100%
+  justify-content: space-between; /* Distributes content evenly */
+  height: 100%;
+  max-width: 360px;
   flex: 1 1 300px;
 }
 
