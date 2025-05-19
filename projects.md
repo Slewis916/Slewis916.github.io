@@ -99,6 +99,25 @@ background-color: #e5e7eb;
   font-size: 1rem;
 }
 
+.github-button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background-color: #2d70c9;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.github-button:hover {
+  background-color: #1e56a0;
+}
+
+
 </style>
 
 
