@@ -15,21 +15,22 @@ permalink: /projects/
 
 
 <style>
-  .card-grid {
+.card-grid {
   display: flex;
+  gap: 2rem;
   flex-wrap: wrap;
-  gap: 1.5rem;
   justify-content: center;
 }
 
 .project-card {
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Distributes content evenly */
+  justify-content: space-between;
   height: 100%;
   max-width: 360px;
-  flex: 1 1 300px;
+  flex: 1 1 320px;
 }
+
 
 .project-card-content {
   padding: 1.0rem 1.2rem;
@@ -55,6 +56,8 @@ permalink: /projects/
 .project-card img {
   margin-bottom: 0;
   display: block;
+  max-height: 160px;
+  object-fit: contain;
 }
 
 .project-card h3 {
@@ -69,6 +72,8 @@ permalink: /projects/
 
 .project-card p {
   text-align: left;
+   max-width: 90%;
+  line-height: 1.6;
 }
 
 .project-card:hover {
@@ -89,6 +94,24 @@ permalink: /projects/
   font-size: 1rem;
 }
 
+.github-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0.6rem 1.2rem;
+  background-color: #2d70c9;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.github-button:hover {
+  background-color: #1e56a0;
+}
+
 </style>
 
 
@@ -105,7 +128,7 @@ permalink: /projects/
       <p>This project simulates the deployment and configuration of a helpdesk ticketing system using the LAMP stack (Linux, Apache, MySQL, PHP) and osTicket. It includes request handling, escalation workflows, and ticket lifecycle documentation.</p>
 
         <div style="margin-top: 1rem; text-align: center;">
-        <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" class="project-link">
+        <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" rel="noopener noreferrer" class="project-link">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo"
           width="18" 
           style="vertical-align: middle; 
@@ -128,7 +151,7 @@ permalink: /projects/
         <h3>Allow-List IP Automation Script</h3>
         <p>Python script designed to automate updates to an allow-list file by removing unauthorized IPs from access logs. Includes logic for comparison, validation, and reporting.</p>
         <div style="margin-top: 1rem; text-align: center;">
-        <a href="https://github.com/Slewis916/IP-Allow-List-Automation.git" target="_blank" class="project-link">
+        <a href="https://github.com/Slewis916/IP-Allow-List-Automation.git" target="_blank" rel="noopener noreferrer" class="project-link">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo" width="18" style="vertical-align: middle; margin-right: 6px;">
         Github Repo
         </a>
