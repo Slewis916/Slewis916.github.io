@@ -119,6 +119,7 @@ permalink: /projects/
         <p>Python script designed to automate updates to an allow-list file by removing unauthorized IPs from access logs. Includes logic for comparison, validation, and reporting.</p>
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/IP-Allow-List-Automation.git" target="_blank" class="project-link">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo" width="18" style="vertical-align: middle; margin-right: 6px;">
         Github Repo
         </a>
         </div>
