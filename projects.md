@@ -99,7 +99,7 @@ permalink: /projects/
   <div class="project-card-wrapper">
     <div class="project-label">Python</div>
     <div class="project-card">
-      <img src="/assets/img/ip-automation.jpg" alt="Python Script Project">
+      <img src="/assets/img/python.png" alt="Python Script Project">
       <div class="project-card-content">
         <h3>Allow-List IP Automation Script</h3>
         <p>Python script designed to automate updates to an allow-list file by removing unauthorized IPs from access logs. Includes logic for comparison, validation, and reporting.</p>
