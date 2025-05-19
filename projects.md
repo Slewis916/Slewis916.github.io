@@ -74,6 +74,10 @@ permalink: /projects/
   transform: translateY(-4px);
 }
 
+.project-card p {
+  text-align: left;
+}
+
 </style>
 
 
