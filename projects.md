@@ -98,32 +98,6 @@ background-color: #e5e7eb;
   border-radius: 8px;
   font-size: 1rem;
 }
-.github-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px; /* spacing between icon and text */
-  padding: 0.6rem 1.2rem;
-  background-color: #2d70c9;
-  color: white;
-  font-weight: bold;
-  font-size: 1rem;
-  border-radius: 8px;
-  text-decoration: none;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.github-button:hover {
-  background-color: #1e56a0;
-}
-
-.github-icon {
-  width: 20px;
-  height: 20px;
-  display: inline-block;
-  vertical-align: middle;
-  /* optional: add margin or remove if using `gap` in parent */
-}
-
 
 </style>
 
@@ -142,7 +116,6 @@ background-color: #e5e7eb;
 
         <div style="margin-top: 1rem; text-align: center;">
 <a href="https://github.com/Slewis916/osTicket-Installation.git" class="github-button" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo" class="github-icon">
   GitHub Repo
 </a>
 
@@ -163,7 +136,6 @@ background-color: #e5e7eb;
         <p>Python script designed to automate updates to an allow-list file by removing unauthorized IPs from access logs. Includes logic for comparison, validation, and reporting.</p>
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/IP-Allow-List-Automation.git" target="_blank" rel="noopener noreferrer" class="project-link">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo" width="18" style="vertical-align: middle; margin-right: 6px;">
         Github Repo
         </a>
         </div>
