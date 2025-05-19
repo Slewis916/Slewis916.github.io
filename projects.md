@@ -29,9 +29,9 @@ permalink: /projects/
   height: 100%;
   max-width: 360px;
   flex: 1 1 320px;
-  background-color: #f9f9f9; /* or try #f3f4f6 for a soft gray */
-  border-radius: 12px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+  border-left: 6px solidrgb(66, 67, 69); /* deep blue accent */
+  background-color: #fff;
+  padding-left: 1.5rem;
 }
 
 
