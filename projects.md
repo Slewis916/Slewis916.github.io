@@ -33,9 +33,7 @@ body {
   height: 100%;
   max-width: 360px;
   flex: 1 1 320px;
-  border-left: 6px solidrgb(66, 67, 69); /* deep blue accent */
-  background-color: #fff;
-  padding-left: 1.5rem;
+
 }
 
 
