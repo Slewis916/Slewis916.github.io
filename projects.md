@@ -16,7 +16,8 @@ permalink: /projects/
 
 <style>
   .card-grid {
-    display: grid;
+    display: flex;
+    flex-wrap: wrap;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
     max-width: 1100px;
@@ -26,7 +27,6 @@ permalink: /projects/
   }
 
   .project-card {
-  width: 100%;
   max-width: 360px; /* 🔹 Limit the card width */
   margin: auto; /* 🔹 Center card if in solo display */
   background: #fff;
@@ -36,6 +36,9 @@ permalink: /projects/
   display: flex;
   flex-direction: column;
   transition: transform 0.2s ease;
+  justify-content: space-between;  /* Distributes content evenly */
+  height: 100%
+  flex: 1 1 300px;
 }
 
 .project-card-content {
@@ -100,7 +103,11 @@ permalink: /projects/
 
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" class="project-link">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo" width="18" style="vertical-align: middle; margin-right: 6px;">Github Repo
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo"
+          width="18" 
+          style="vertical-align: middle; 
+          margin-right: 8px;">
+         Github Repo
         </a>
         </div>
       </div>
