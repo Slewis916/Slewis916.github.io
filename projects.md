@@ -100,7 +100,7 @@ permalink: /projects/
 
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" class="project-link">
-        Github Repo
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub logo" width="18" style="vertical-align: middle; margin-right: 6px;">Github Repo
         </a>
         </div>
       </div>
