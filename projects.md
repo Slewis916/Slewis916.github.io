@@ -33,7 +33,7 @@ body {
   height: 100%;
   max-width: 360px;
   flex: 1 1 320px;
-background-color:rgb(231, 226, 226);
+background-color: #e5e7eb;
 }
 
 
@@ -98,11 +98,10 @@ background-color:rgb(231, 226, 226);
   border-radius: 8px;
   font-size: 1rem;
 }
-
 .github-button {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 8px; /* spacing between icon and text */
   padding: 0.6rem 1.2rem;
   background-color: #2d70c9;
   color: white;
@@ -110,14 +109,21 @@ background-color:rgb(231, 226, 226);
   font-size: 1rem;
   border-radius: 8px;
   text-decoration: none;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.github-button:hover {
+  background-color: #1e56a0;
 }
 
 .github-icon {
   width: 20px;
   height: 20px;
-  display: block;
+  display: inline-block;
+  vertical-align: middle;
+  /* optional: add margin or remove if using `gap` in parent */
 }
+
 
 </style>
 
