@@ -27,7 +27,7 @@ permalink: /projects/
 
   .project-card {
   width: 100%;
-  max-width: 400px; /* 🔹 Limit the card width */
+  max-width: 360px; /* 🔹 Limit the card width */
   margin: auto; /* 🔹 Center card if in solo display */
   background: #fff;
   border-radius: 12px;
@@ -67,6 +67,11 @@ permalink: /projects/
 .project-card h3 {
   margin-top: 0.75rem;  /* ↓ Lower this number for tighter spacing */
   font-size: 1.3rem;
+}
+
+.project-card:hover {
+  box-shadow: 0 10px 24px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
 }
 
 </style>
