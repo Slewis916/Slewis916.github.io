@@ -39,7 +39,7 @@ permalink: /projects/
 }
 
 .project-card-content {
-  padding: 1rem 1.2rem;
+  padding: 0.5rem 1.2rem;
   flex-grow: 1;
   text-align: center; /* 🔹 Center text */
 }
