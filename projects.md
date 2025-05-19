@@ -33,7 +33,7 @@ body {
   height: 100%;
   max-width: 360px;
   flex: 1 1 320px;
-background-color:rgb(200, 191, 191);
+background-color:rgb(231, 226, 226);
 }
 
 
