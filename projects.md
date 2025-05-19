@@ -85,6 +85,19 @@ permalink: /projects/
   transform: scale(1.02);
   box-shadow: 0 12px 28px rgba(0,0,0,0.08);
 }
+ .project-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #2d70c9;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-size: 1rem;
+}
 
 </style>
 
