@@ -125,7 +125,7 @@ permalink: /projects/
       <img src="/assets/img/logo copy.png" alt="osTicket Helpdesk deployment">
       <div class="project-card-content">
         <h3>osTicket Helpdesk Deployment (Microsoft Azure)</h3>
-      <p>This project simulates the deployment and configuration of a helpdesk ticketing system using the LAMP stack (Linux, Apache, MySQL, PHP) and osTicket.Simulated the deployment and configuration of a helpdesk ticketing system using the LAMP stack (Linux, Apache, MySQL, PHP) and osTicket.</p>
+      <p>This project simulates the deployment and configuration of a helpdesk ticketing system using the LAMP stack (Linux, Apache, MySQL, PHP) and osTicket.</p>
 
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" rel="noopener noreferrer" class="project-link">
