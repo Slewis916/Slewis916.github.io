@@ -22,6 +22,10 @@ permalink: /projects/
   justify-content: center;
 }
 
+body {
+  background-color:rgb(182, 172, 172);
+}
+
 .project-card {
   display: flex;
   flex-direction: column;
