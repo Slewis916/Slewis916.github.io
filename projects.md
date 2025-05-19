@@ -89,9 +89,27 @@ permalink: /projects/
 <div class="card-grid">
 
   <!-- 🟦 Your osTicket card -->
-  <!-- 🟪 Your Phishing card -->
+
+  <div class="project-card-wrapper">
+  
+    <div class="project-card">
+      <img src="/assets/img/logo copy.png" alt="osTicket Helpdesk deployment">
+      <div class="project-card-content">
+        <h3>osTicket Helpdesk Deployment (Microsoft Azure)</h3>
+      <p>This project simulates the deployment and configuration of a helpdesk ticketing system using the LAMP stack (Linux, Apache, MySQL, PHP) and osTicket. It includes request handling, escalation workflows, and ticket lifecycle documentation.</p>
+
+        <div style="margin-top: 1rem; text-align: center;">
+        <a href="https://github.com/Slewis916/osTicket-Installation.git" target="_blank" class="project-link">
+        Github Repo
+        </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
 
   <!-- 🐍 Python automation card -->
+
   <div class="project-card-wrapper">
   
     <div class="project-card">
@@ -101,11 +119,11 @@ permalink: /projects/
         <p>Python script designed to automate updates to an allow-list file by removing unauthorized IPs from access logs. Includes logic for comparison, validation, and reporting.</p>
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/IP-Allow-List-Automation.git" target="_blank" class="project-link">
-        View Project
+        Github Repo
         </a>
         </div>
       </div>
     </div>
   </div>
-
+<!-- 🟪 Your Phishing card -->
 </div>
