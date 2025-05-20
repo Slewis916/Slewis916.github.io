@@ -117,6 +117,16 @@ background-color: #e5e7eb;
   background-color: #1e56a0;
 }
 
+@media (max-width: 600px) {
+  .project-card {
+    margin: 10px;
+    padding: 10px;
+  }
+  .project-card h3 {
+    font-size: 1.2rem;
+  }
+}
+
 
 </style>
 
