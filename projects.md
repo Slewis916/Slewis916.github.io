@@ -3,17 +3,6 @@ layout: default
 title: "Projects"
 permalink: /projects/
 ---
-
-
-<ul>
-  {% for project in site.projects %}
-    <li>
-      <a href="{{ project.url }}">{{ project.title }}</a> - {{ project.description }}
-    </li>
-  {% endfor %}
-</ul>
-
-
 <style>
 .card-grid {
   display: flex;
@@ -129,6 +118,17 @@ background-color: #e5e7eb;
 
 
 </style>
+
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a> - {{ project.description }}
+    </li>
+  {% endfor %}
+</ul>
+
+
+
 
 
 <div class="card-grid">
