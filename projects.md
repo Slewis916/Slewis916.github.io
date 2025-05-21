@@ -165,7 +165,7 @@ background-color: #e5e7eb;
         <p>Python script designed to automate updates to an allow-list file by removing unauthorized IPs from access logs. Includes logic for comparison, validation, and reporting.</p>
         <div style="margin-top: 1rem; text-align: center;">
         <a href="https://github.com/Slewis916/IP-Allow-List-Automation.git" target="_blank" rel="noopener noreferrer" class="project-link">
-        Github Repo
+        GitHub Repo
         </a>
         </div>
       </div>
